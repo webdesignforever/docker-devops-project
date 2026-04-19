@@ -16,3 +16,22 @@ Browser → Nginx → Node App
 
 ```bash
 docker-compose up --build
+
+Visit:
+http://localhost:8080
+
+Features:
+
+Containerized Node.js application
+Reverse proxy using Nginx
+Multi-container setup with Docker Compose
+Port mapping and container networking
+Basic logging and debugging support
+
+DevOps Concepts Covered:
+
+Docker image creation
+Container lifecycle management
+Service-to-service communication
+Reverse proxy configuration
+Debugging using logs
